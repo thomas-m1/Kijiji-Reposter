@@ -1,0 +1,11 @@
+{
+    "_COMMENT": "condition can either be: New, usedlikenew, usedgood, usedfair ",
+    "ad_title":"computer",
+    "description":"new computer for sale",
+    "category":"",
+    "location":"ABC DEF",
+    "price":"100",
+    "phone":"1234567890",
+    "tag":"computer, pc, desktop",
+    "condition":"usedgood"
+}
