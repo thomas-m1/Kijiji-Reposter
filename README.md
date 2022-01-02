@@ -1,4 +1,4 @@
-#Kijiji-reposter
+# Kijiji-reposter
 Python program that can post kijiji ads, delete them, and gather statistics on the ads.
 
 Setup
